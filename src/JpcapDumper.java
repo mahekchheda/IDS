@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class JpcapDumper {
     

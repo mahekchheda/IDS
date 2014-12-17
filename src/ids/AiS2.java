@@ -15,7 +15,7 @@ import jpcap.packet.UDPPacket;
 import jpcap.packet.TCPPacket;
 import java.sql.*; 
   /*      *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class AiS2 
 {

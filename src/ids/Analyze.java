@@ -15,7 +15,7 @@ import jpcap.packet.UDPPacket;
 import jpcap.packet.Packet;
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Analyze {
 

@@ -9,7 +9,7 @@ import jpcap.packet.*;
 import jpcap.packet.IPPacket;
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Example2 
 {

@@ -6,7 +6,7 @@ package ids;
 
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class IDS {
 

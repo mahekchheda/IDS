@@ -13,7 +13,7 @@ import jpcap.packet.IPPacket;
 
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Example3 {
     public static void main(String args[]) throws IOException

@@ -12,7 +12,7 @@ import java.sql.*;
 
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Analyzer extends JFrame implements ActionListener
 {

@@ -16,7 +16,7 @@ import jpcap.*;
 
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class CDashBoard extends JFrame
 {

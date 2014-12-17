@@ -6,7 +6,7 @@ package ids;
 import java.util.*;
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Matching {
     boolean Matchingstring(String sub,String obj,int thresh)

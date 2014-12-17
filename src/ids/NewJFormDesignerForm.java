@@ -9,7 +9,7 @@ import javax.swing.*;
 import com.jgoodies.forms.factories.*;
 
 /**
- * @author Sunny Gopani
+ * @author Mahek Chheda
  */
 public class NewJFormDesignerForm extends JFrame {
     public NewJFormDesignerForm() {

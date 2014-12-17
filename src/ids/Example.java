@@ -8,7 +8,7 @@ import jpcap.*;
 import java.net.InetAddress;
 /**
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class Example {
     //Obtain the list of network interfaces

@@ -15,7 +15,7 @@ import jpcap.packet.Packet;
 
 /**nuBar
  *
- * @author Gopani
+ * @author Mahek Chheda
  */
 public class CDashBoard1 extends JFrame {
 NetworkInterface[] devices2 = JpcapCaptor.getDeviceList();     
